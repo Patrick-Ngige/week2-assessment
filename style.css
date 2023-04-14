@@ -1,0 +1,14 @@
+body{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+form{
+    width: 20vw;
+    display: flex;
+    padding: 4%;
+    justify-content: center;
+    flex-direction: column;
+    background-color: aqua;
+}
